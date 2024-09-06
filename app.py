@@ -13,7 +13,7 @@ import os
 
 # Load environment variables
 load_dotenv()
-api_key = os.getenv("GOOGLE_API_KEY")
+api_key = os.getenv("AIzaSyAnxuBmJxsQDXxuceW7BAkgnKywCnEhlPI")
 
 # Check if API key is available
 if not api_key:
